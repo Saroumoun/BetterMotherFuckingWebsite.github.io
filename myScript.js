@@ -1,5 +1,5 @@
 function miseEnAttente(){
-	setTimeOut(fonctionAExecuter, 100);
+	setTimeOut(fonctionAExecuter, 10000);
 }
 
 function fonctionAExecuter(){
